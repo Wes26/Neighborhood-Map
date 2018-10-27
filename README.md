@@ -1,6 +1,8 @@
 
 # Udacity Neighborhood Map
 
+--
+View demo here https://app-neighborhood-map.herokuapp.com/
 
 This neighborhood map showcases Crete the largest Greek island with 30 default markers provided with more information when clicked, along with the ability to search by name or type of venue in a drop down menu. When a marker is selected the marker will jump to allow the searcher to easily identify the venues location on the map. 
 
