@@ -1,5 +1,5 @@
 
-# Udacity Neighborhood Map
+# Neighborhood Map
 
 --
 View demo here https://app-neighborhood-map.herokuapp.com/
